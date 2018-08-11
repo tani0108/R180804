@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533371544790.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3187424190",
+    "id" : "6A922418",
+    "lastKnownWriteTime" : 1533374411,
+    "last_content_update" : 1533374411912,
+    "path" : "~/project180804_2/Ggplot2Demo.R",
+    "project_path" : "Ggplot2Demo.R",
+    "properties" : {
+        "cursorPosition" : "79,3",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
